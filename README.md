@@ -1,2 +1,2 @@
 # Breast_Cancer_Prediction
-I will upload a model which will check for breast cancer using CNN and LSTM
+In this model, I have used breast histopathology images from Kaggle and then trained and tested my model on it.
